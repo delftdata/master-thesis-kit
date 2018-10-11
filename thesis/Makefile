@@ -1,7 +1,6 @@
 pdf:
 	@TEXINPUTS=.//: pdflatex -synctex=1 -interaction=nonstopmode --shell-escape main
 all:
-	mkdir -p build/figures/cache
 	@TEXINPUTS=.//: pdflatex -synctex=1 -interaction=nonstopmode --shell-escape main
 	bibtex main
 	pdflatex -synctex=1 -interaction=nonstopmode  --shell-escape main
