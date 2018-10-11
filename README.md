@@ -3,7 +3,7 @@
 This repository contains instructions for how to start your thesis, write your research proposal and then your thesis. You are advised to fork this repository and use it from the beigninning of the thesis up to its completion. 
 
 ## Templates
-This repository contains a [proposal template](proposal), a [literature review template](literature-review), as well as a [master thesis Template](thesis). You do not have to use them, but you are advised to do so.
+This repository contains a [proposal template](proposal), a [literature review template](literature-review) (note: not all students need a separate literature review; talk to your advisor about this), as well as a [master thesis Template](thesis). You do not have to use them, but you are advised to do so.
 
 ## Master Thesis Process
 
