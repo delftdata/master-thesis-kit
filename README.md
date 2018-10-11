@@ -3,11 +3,11 @@
 This repository contains instructions for how to start your thesis, write your research proposal and then your thesis. You are advised to fork this repository and use it from the beigninning of the thesis up to its completion. 
 
 ## Templates
-This repository contains a [proposal template](proposal), a [literature review template](literature-review), as well as a [master thesis Template](thesis-template). You do not have to use them, but you are advised to do so.
+This repository contains a [proposal template](proposal), a [literature review template](literature-review), as well as a [master thesis Template](thesis). You do not have to use them, but you are advised to do so.
 
 ## Master Thesis Process
 
-- Read the [manual](https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/education/graduation-policy-msc/summary-of-procedure/). Your advisor will never have to remind you of any of the things mentioned in there. It's your own responsibility to remind your advisor of each step, with an email (e.g., to create a committee for the thesis, to schedule a thesis defense, etc.). 
+- Most important step: **read the [manual](https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/education/graduation-policy-msc/summary-of-procedure/)**. Your advisor will never have to remind you of any of the things mentioned in there. It's your own responsibility to remind your advisor of each step, with an email (e.g., to create a committee for the thesis, to schedule a thesis defense, etc.). 
 - Write a research proposal. Read the guide on how to write a research proposal, along with the template. 
 - Send an email to Geert-Jan Houben (GJ) and setup a meeting with him.
 - After GJ approves the thesis plan, he will have to sign a couple of forms you are officially a MSc thesis candidate with a clear subject and plan.
