@@ -2,7 +2,7 @@ pdf:
 	@TEXINPUTS=.//: pdflatex -synctex=1 -interaction=nonstopmode --shell-escape main
 all:
 	@TEXINPUTS=.//: pdflatex -synctex=1 -interaction=nonstopmode --shell-escape main
-	bibtex main
+	biber main
 	pdflatex -synctex=1 -interaction=nonstopmode  --shell-escape main
 	pdflatex -synctex=1 -interaction=nonstopmode  --shell-escape main
 clean:
